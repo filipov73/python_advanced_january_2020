@@ -1,3 +1,4 @@
+
 import bs4 as bs
 import urllib.request
 import re
@@ -39,5 +40,9 @@ for i in i.find_all('table', {'id': 'blocks'}):
 
     # print("-------------------------------------------")
     # print(i.contents[1])
+<<<<<<< HEAD
+    # print("-------------------------------------------")
+=======
     # print("-------------------------------------------")
 
+>>>>>>> f1ee6c3bb887e3e9454ba0c7ddcd6a299e33a863
