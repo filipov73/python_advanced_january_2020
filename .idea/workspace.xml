@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="494506a7-dde9-45e5-9479-51993bbd2bb8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/python_advanced_january_2020.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/00-Lists-as-Stacks-and-Queues-Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/01. Reverse Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/02. Matching Brackets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/05. Hot Potato.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/00-Lists-as-Stacks-and-Queues-Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/01.Basic Stack Operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/02. Basic Queue Operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/03. Maximum and Minimum Element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/04. Fast Food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/05. Fashion Boutique.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/06. Truck Tour.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/07. Balanced Parentheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/08. Crossroads.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/09. Key Revolver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/10. Cups and Bottles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Tuples and Sets - Lab/00-Tuples-and-Sets-Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Tuples and Sets - Lab/01. Count Same Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Tuples and Sets - Lab/02. Average Student Grades.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Tuples and Sets - Lab/03. Record Unique Names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Tuples and Sets - Lab/04. Parking Lot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Tuples and Sets - Lab/05. SoftUni Party.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Tuples and Sets - Exercise/01. Unique Usernames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Tuples and Sets - Exercise/02. Sets of Elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Tuples and Sets - Exercise/03. Periodic Table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Tuples and Sets - Exercise/04. Count Symbols.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Tuples and Sets - Exercise/05. Phonebook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Multidimensional Lists - Lab/01. Sum Matrix Elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Multidimensional Lists - Lab/02. Sum Matrix Columns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Multidimensional Lists - Lab/03. Primary Diagonal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Multidimensional Lists - Lab/04. Symbol in Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Multidimensional Lists - Lab/05. Square with Maximum Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/01. Diagonal Difference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/02. 2x2 Squares in Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/03. Maximum Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/04. Matrix Shuffling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/05. Snake Moves.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/06. Knight Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/07. Bombs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/08. Miner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/09. Radioactive Mutate Vampire Bunnies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/03. Supermarket.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.Tuples and Sets - Lab/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/04. Water Dispenser.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/04. Water Dispenser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/05. Hot Potato.py" />
+        <option value="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/02. Basic Queue Operations.ipynb" />
+        <option value="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/02. Basic Queue Operations.py" />
+        <option value="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/03. Maximum and Minimum Element.py" />
+        <option value="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/04. Fast Food.py" />
+        <option value="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/05. Fashion Boutique.py" />
+        <option value="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/06. Truck Tour.py" />
+        <option value="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/07. Balanced Parentheses.py" />
+        <option value="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/08. Crossroads.py" />
+        <option value="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/09. Key Revolver.py" />
+        <option value="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/10. Cups and Bottles.py" />
+        <option value="$PROJECT_DIR$/5.Tuples and Sets - Lab/02. Average Student Grades.py" />
+        <option value="$PROJECT_DIR$/5.Tuples and Sets - Lab/03. Record Unique Names.py" />
+        <option value="$PROJECT_DIR$/5.Tuples and Sets - Lab/04. Parking Lot.py" />
+        <option value="$PROJECT_DIR$/5.Tuples and Sets - Lab/05. SoftUni Party.py" />
+        <option value="$PROJECT_DIR$/6.Tuples and Sets - Exercise/01. Unique Usernames.py" />
+        <option value="$PROJECT_DIR$/6.Tuples and Sets - Exercise/02. Sets of Elements.py" />
+        <option value="$PROJECT_DIR$/6.Tuples and Sets - Exercise/03. Periodic Table.py" />
+        <option value="$PROJECT_DIR$/6.Tuples and Sets - Exercise/04. Count Symbols.py" />
+        <option value="$PROJECT_DIR$/6.Tuples and Sets - Exercise/05. Phonebook.py" />
+        <option value="$PROJECT_DIR$/7.Multidimensional Lists - Lab/01. Sum Matrix Elements.py" />
+        <option value="$PROJECT_DIR$/7.Multidimensional Lists - Lab/02. Sum Matrix Columns.py" />
+        <option value="$PROJECT_DIR$/7.Multidimensional Lists - Lab/03. Primary Diagonal.py" />
+        <option value="$PROJECT_DIR$/7.Multidimensional Lists - Lab/04. Symbol in Matrix.py" />
+        <option value="$PROJECT_DIR$/7.Multidimensional Lists - Lab/05. Square with Maximum Sum.py" />
+        <option value="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/01. Diagonal Difference.py" />
+        <option value="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/02. 2x2 Squares in Matrix.py" />
+        <option value="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/03. Maximum Sum.py" />
+        <option value="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/04. Matrix Shuffling.py" />
+        <option value="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/05. Snake Moves.py" />
+        <option value="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/06. Knight Game.py" />
+        <option value="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/07. Bombs.py" />
+        <option value="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/08. Miner.py" />
+        <option value="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/09. Radioactive Mutate Vampire Bunnies.py" />
+        <option value="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/01. Reverse Strings.py" />
+        <option value="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/02. Matching Brackets.py" />
+        <option value="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/03. Supermarket.py" />
+        <option value="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/04. Water Dispenser.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-36" />
+    <option name="y" value="324" />
+    <option name="width" value="1386" />
+    <option name="height" value="492" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python_advanced_january_2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_advanced_january_2020" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_advanced_january_2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_advanced_january_2020" type="462c0819:PsiDirectoryNode" />
+              <item name="3.Lists as Stacks and Queues - Lab" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.04. Water Dispenser">
+    <configuration name="01. Reverse Strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_advanced_january_2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/01. Reverse Strings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02. Matching Brackets" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_advanced_january_2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/02. Matching Brackets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03. Supermarket" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_advanced_january_2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/03. Supermarket.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04. Water Dispenser" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_advanced_january_2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/04. Water Dispenser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.04. Water Dispenser" />
+        <item itemvalue="Python.03. Supermarket" />
+        <item itemvalue="Python.02. Matching Brackets" />
+        <item itemvalue="Python.01. Reverse Strings" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="494506a7-dde9-45e5-9479-51993bbd2bb8" name="Default Changelist" comment="" />
+      <created>1579092883329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579092883329</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962743" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32840723" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39901477" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/02. Matching Brackets.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/03. Supermarket.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/02. Basic Queue Operations.ipynb" />
+    <entry file="file://$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/05. Hot Potato.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/02. Basic Queue Operations.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/03. Maximum and Minimum Element.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/04. Fast Food.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/05. Fashion Boutique.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/06. Truck Tour.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/07. Balanced Parentheses.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/08. Crossroads.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/09. Key Revolver.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/10. Cups and Bottles.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.Tuples and Sets - Lab/02. Average Student Grades.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.Tuples and Sets - Lab/03. Record Unique Names.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.Tuples and Sets - Lab/04. Parking Lot.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.Tuples and Sets - Lab/05. SoftUni Party.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.Tuples and Sets - Exercise/01. Unique Usernames.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.Tuples and Sets - Exercise/02. Sets of Elements.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.Tuples and Sets - Exercise/03. Periodic Table.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.Tuples and Sets - Exercise/04. Count Symbols.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.Tuples and Sets - Exercise/05. Phonebook.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.Multidimensional Lists - Lab/01. Sum Matrix Elements.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.Multidimensional Lists - Lab/02. Sum Matrix Columns.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.Multidimensional Lists - Lab/03. Primary Diagonal.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.Multidimensional Lists - Lab/04. Symbol in Matrix.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.Multidimensional Lists - Lab/05. Square with Maximum Sum.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.Multidimensional Lists - Exercise/01. Diagonal Difference.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.Multidimensional Lists - Exercise/02. 2x2 Squares in Matrix.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.Multidimensional Lists - Exercise/03. Maximum Sum.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.Multidimensional Lists - Exercise/04. Matrix Shuffling.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.Multidimensional Lists - Exercise/05. Snake Moves.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.Multidimensional Lists - Exercise/06. Knight Game.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.Multidimensional Lists - Exercise/07. Bombs.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.Multidimensional Lists - Exercise/08. Miner.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.Multidimensional Lists - Exercise/09. Radioactive Mutate Vampire Bunnies.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/01. Reverse Strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/02. Matching Brackets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="9" lean-forward="true" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/03. Supermarket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/04. Water Dispenser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
