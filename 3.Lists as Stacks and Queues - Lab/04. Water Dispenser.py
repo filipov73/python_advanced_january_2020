@@ -16,3 +16,4 @@ while command != "End":
     else:
         pass
     command = input()
+hg
