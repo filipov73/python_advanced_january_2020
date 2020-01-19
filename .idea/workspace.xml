@@ -2,61 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="494506a7-dde9-45e5-9479-51993bbd2bb8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python_advanced_january_2020.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/00-Lists-as-Stacks-and-Queues-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/01. Reverse Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/02. Matching Brackets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/05. Hot Potato.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/00-Lists-as-Stacks-and-Queues-Exercise.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/01.Basic Stack Operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/02. Basic Queue Operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/03. Maximum and Minimum Element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/04. Fast Food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/05. Fashion Boutique.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/06. Truck Tour.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/07. Balanced Parentheses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/08. Crossroads.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/09. Key Revolver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/10. Cups and Bottles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.Tuples and Sets - Lab/00-Tuples-and-Sets-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.Tuples and Sets - Lab/01. Count Same Values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.Tuples and Sets - Lab/02. Average Student Grades.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.Tuples and Sets - Lab/03. Record Unique Names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.Tuples and Sets - Lab/04. Parking Lot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.Tuples and Sets - Lab/05. SoftUni Party.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.Tuples and Sets - Exercise/01. Unique Usernames.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.Tuples and Sets - Exercise/02. Sets of Elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.Tuples and Sets - Exercise/03. Periodic Table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.Tuples and Sets - Exercise/04. Count Symbols.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.Tuples and Sets - Exercise/05. Phonebook.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.Multidimensional Lists - Lab/01. Sum Matrix Elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.Multidimensional Lists - Lab/02. Sum Matrix Columns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.Multidimensional Lists - Lab/03. Primary Diagonal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.Multidimensional Lists - Lab/04. Symbol in Matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.Multidimensional Lists - Lab/05. Square with Maximum Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/01. Diagonal Difference.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/02. 2x2 Squares in Matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/03. Maximum Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/04. Matrix Shuffling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/05. Snake Moves.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/06. Knight Game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/07. Bombs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/08. Miner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/09. Radioactive Mutate Vampire Bunnies.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/03. Supermarket.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.Tuples and Sets - Lab/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.Lists as Stacks and Queues - Lab/04. Water Dispenser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/03. Maximum and Minimum Element.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/04. Fast Food.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -69,13 +35,43 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-36" />
+    <option name="y" value="324" />
+    <option name="width" value="1386" />
+    <option name="height" value="492" />
+  </component>
   <component name="ProjectId" id="1WT91UqVITjNTUI2ME512BQUiO5" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="0.python_advanced_january_2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="0.python_advanced_january_2020" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="0.python_advanced_january_2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="0.python_advanced_january_2020" type="462c0819:PsiDirectoryNode" />
+              <item name="4.Lists as Stacks and Queues - Exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="C:/Program Files/Python36" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -220,14 +216,56 @@
     </task>
     <servers />
   </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962743" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
             <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
               <option name="COLUMN_ORDER" />
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
           </value>
         </entry>
       </map>
@@ -253,5 +291,13 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/04. Fast Food.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/03. Maximum and Minimum Element.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
 </project>
