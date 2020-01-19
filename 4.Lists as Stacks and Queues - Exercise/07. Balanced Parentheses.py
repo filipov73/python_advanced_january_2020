@@ -1,4 +1,3 @@
-
 string = input()
 
 new_list = []
@@ -35,32 +34,31 @@ else:
     if not new_list:
         print("YES")
 
-# from collections import deque
-# new_list = deque([])
-# parenthesis = {
-#     "{": 1,
-#     "[": 2,
-#     "(": 3,
-#     ")": 13,
-#     "]": 12,
-#     "}": 11,
-#     " ": 0
+#
+# parentheses = input()
+# stack = []
+# pairs = {
+#     "{": "}",
+#     "[": "]",
+#     "(": ")"
 # }
-# for ch in string:
-#     new_list.append(parenthesis[ch])
-
-# if len(new_list) % 2 != 0:
-#     print("NO")
-# else:
-#     while new_list:
-#         first = new_list.popleft()
-#         last = new_list.pop()
-#         if first != last - 10:
-#             print("NO")
-#             break
-#         else:
-#             if not new_list:
-#                 print("YES")
+# valid = True
+#
+# for el in parentheses:
+#     if el in "{[(":
+#         stack.append(el)
+#     elif el in ")]}":
+#         if stack:
+#             current = stack[-1]
+#             if pairs[current] == el:
+#                 stack.pop()
+#             else:
+#                 valid = False
 #                 break
-#
-#
+#         else:
+#             valid = False
+#             break
+# if valid:
+#     print("YES")
+# else:
+#     print("NO")

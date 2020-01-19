@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="494506a7-dde9-45e5-9479-51993bbd2bb8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_advanced_january_2020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_advanced_january_2020.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/04. Fast Food.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/04. Fast Food.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/05. Fashion Boutique.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/05. Fashion Boutique.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/07. Balanced Parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/07. Balanced Parentheses.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.04. Fast Food">
+  <component name="RunManager" selected="Python.07. Balanced Parentheses">
     <configuration name="03. Maximum and Minimum Element" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_advanced_january_2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,8 +152,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.04. Fast Food" />
         <item itemvalue="Python.07. Balanced Parentheses" />
+        <item itemvalue="Python.04. Fast Food" />
         <item itemvalue="Python.06. Truck Tour" />
         <item itemvalue="Python.05. Fashion Boutique" />
         <item itemvalue="Python.03. Maximum and Minimum Element" />
@@ -182,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579441268967</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="5">
+      <created>1579471532759</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579471532759</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,7 +217,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="3" />
-    <option name="LAST_COMMIT_MESSAGE" value="3" />
+    <MESSAGE value="5" />
+    <option name="LAST_COMMIT_MESSAGE" value="5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -243,11 +247,6 @@
           <url>file://$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/06. Truck Tour.py</url>
           <line>3</line>
           <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/07. Balanced Parentheses.py</url>
-          <line>57</line>
-          <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/04. Fast Food.py</url>
