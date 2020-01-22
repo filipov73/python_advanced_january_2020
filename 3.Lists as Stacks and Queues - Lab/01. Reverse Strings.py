@@ -8,4 +8,5 @@ print("".join(res1))
 
 string = input()
 
+
 print(string[::-1])
