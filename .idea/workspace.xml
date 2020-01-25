@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="494506a7-dde9-45e5-9479-51993bbd2bb8" name="Default Changelist" comment="">
+    <list default="true" id="494506a7-dde9-45e5-9479-51993bbd2bb8" name="Default Changelist" comment="6h">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/00-Multidimensional-Lists-Exercise.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/07. Balanced Parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/07. Balanced Parentheses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.Multidimensional Lists - Lab/05. Square with Maximum Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/7.Multidimensional Lists - Lab/05. Square with Maximum Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/01. Diagonal Difference.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/01. Diagonal Difference.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +33,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -44,8 +47,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.07. Balanced Parentheses">
-    <configuration name="03. Maximum and Minimum Element" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.02. Sum Matrix Columns">
+    <configuration name="01. Diagonal Difference" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_advanced_january_2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,11 +56,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8.Multidimensional Lists - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/03. Maximum and Minimum Element.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8.Multidimensional Lists - Exercise/01. Diagonal Difference.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04. Fast Food" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="02. Sum Matrix Columns" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_advanced_january_2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,11 +77,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7.Multidimensional Lists - Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/04. Fast Food.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7.Multidimensional Lists - Lab/02. Sum Matrix Columns.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05. Fashion Boutique" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="05. Square with Maximum Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_advanced_january_2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +98,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7.Multidimensional Lists - Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/05. Fashion Boutique.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7.Multidimensional Lists - Lab/05. Square with Maximum Sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06. Truck Tour" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="08. Crossroads" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_advanced_january_2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,7 +123,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/06. Truck Tour.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/08. Crossroads.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07. Balanced Parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_advanced_january_2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +140,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/07. Balanced Parentheses.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.07. Balanced Parentheses" />
-        <item itemvalue="Python.04. Fast Food" />
-        <item itemvalue="Python.06. Truck Tour" />
-        <item itemvalue="Python.05. Fashion Boutique" />
-        <item itemvalue="Python.03. Maximum and Minimum Element" />
+        <item itemvalue="Python.02. Sum Matrix Columns" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.01. Diagonal Difference" />
+        <item itemvalue="Python.05. Square with Maximum Sum" />
+        <item itemvalue="Python.08. Crossroads" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +188,28 @@
       <option name="project" value="LOCAL" />
       <updated>1579471532759</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="6h">
+      <created>1579474741014</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579474741014</updated>
+    </task>
+    <task id="LOCAL-00004" summary="6h">
+      <created>1579727492161</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579727492161</updated>
+    </task>
+    <task id="LOCAL-00005" summary="6h">
+      <created>1579736297951</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579736297951</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,7 +242,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="3" />
     <MESSAGE value="5" />
-    <option name="LAST_COMMIT_MESSAGE" value="5" />
+    <MESSAGE value="6h" />
+    <option name="LAST_COMMIT_MESSAGE" value="6h" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -250,8 +275,27 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/4.Lists as Stacks and Queues - Exercise/04. Fast Food.py</url>
-          <line>4</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/6.Tuples and Sets - Exercise/06. Longest Intersection.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/7.Multidimensional Lists - Lab/05. Square with Maximum Sum.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/8.Multidimensional Lists - Exercise/01. Diagonal Difference.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/7.Multidimensional Lists - Lab/02. Sum Matrix Columns.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
