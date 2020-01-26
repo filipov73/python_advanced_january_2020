@@ -18,10 +18,11 @@ def check_command(command, length):
         column_cell_1 = int(command[2])
         row_cell_2 = int(command[3])
         column_cell_2 = int(command[4])
-        if 0 <= row_cell_1 <= length and \
-            0 <= column_cell_1 <= length and \
-            0 <= row_cell_2 <= length and \
-            0 <= column_cell_2 <= length:
+        if 0 <= row_cell_1 <= length \
+                and 0 <= column_cell_1 <= length \
+                and 0 <= row_cell_2 <= length \
+                and 0 <= column_cell_2 <= length:
+
             return (row_cell_1, column_cell_1, row_cell_2, column_cell_2)
         else:
             return False
@@ -33,6 +34,7 @@ def print_matrix(matrix):
     matrix_ = matrix
     for i in matrix_:
         print(" ".join(map(str, i)))
+
 
 
 matrix_ = read_martix()
