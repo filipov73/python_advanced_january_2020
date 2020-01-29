@@ -42,12 +42,14 @@ matrix = read_matrix(size)
 max_count = -sys.maxsize - 1
 target = []
 removed = 0
+counter = 0
 while True:
-    for i in range(size - 1):
-        for j in range(size - 1):
+    for i in range(size):
+        for j in range(size):
             counter = 0
+
             if matrix[i][j] == "K":
-                counter += check_range_count(size, i, j)
+                counter = check_range_count(size, i, j)
             if counter:
                 if max_count < counter:
                     max_count = counter
@@ -63,4 +65,4 @@ while True:
 
 
 print(removed)
-print(matrix)
+
