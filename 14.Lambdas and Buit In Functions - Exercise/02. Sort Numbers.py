@@ -1,0 +1,5 @@
+string = input().split()
+length = len(string)
+list_ = map(int, filter(lambda x: x.isdigit(), string))
+result = sorted(filter(lambda x: x > length, list_))
+print(" ".join(map(str, result)))
