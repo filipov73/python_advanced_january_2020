@@ -1,6 +1,11 @@
+from math import log
 from os import listdir
 from os.path import isdir, isfile, join
 
+
+
+
+log()
 
 def print_all_dirs_files(path):
     dirs_files = [join(path, content) for content in listdir(path)]
