@@ -5,8 +5,10 @@ def check_position_in_matrix(row, col, matrix):
     #     return True
     # return False
     try:
-        a = matrix[row][col]
-        return True
+        if row >= 0 and col >= 0:
+            _ = matrix[row][col]
+            return True
+        return False
     except IndexError:
         return False
 
@@ -62,11 +64,16 @@ while command != "Sunset":
             if shell is not None:
                 seagull_gully_seashells.append(shell)
                 new_3_positions = seagull_gully_new_position(row, col, beach_matrix, direction)
-                if new_3_positions is not None:
-                    row, col = new_3_positions
-                    shell = check_and_replace(row, col, beach_matrix)
-                    if shell is not None:
-                        seagull_gully_seashells.append(shell)
+                for row, col in new_3_positions:
+                    if check_position_in_matrix(row, col, beach_matrix):
+                        shell = check_and_replace(row, col, beach_matrix)
+                        if shell is not None:
+                            seagull_gully_seashells.append(shell)
+                # if new_3_positions is not None:
+                #     row, col = new_3_positions
+                #     shell = check_and_replace(row, col, beach_matrix)
+                #     if shell is not None:
+                #         seagull_gully_seashells.append(shell)
     command = input()
 
 for line in beach_matrix:
