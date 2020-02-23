@@ -20,6 +20,8 @@ rez = []
 temp_hall = {}
 
 while True:
+    if (len(temp_hall) == 0 and len(free_halls) == 0) and (all([isinstance(x, int) for x in base]) or all([isinstance(x, str) for x in base])):
+        break
     if free_halls and (len(temp_hall) == 0):
         for _ in range(len(free_halls)):
             base.append(free_halls.pop())
@@ -50,12 +52,11 @@ while True:
                 del temp_hall[name]
                 name = None
                 base.append(current)
-        # else:
-        #     base.appendleft(current)
-    if (len(free_halls) == 0) and (len(temp_hall) == 0) and all([isinstance(x, int) for x in base]):
-        break
-    if all([isinstance(x, str) for x in base]):
-        break
+
+    # if (len(free_halls) == 0) and (len(temp_hall) == 0) and all([isinstance(x, int) for x in base]):
+    #     break
+    # if (len(free_halls) == 0) and (len(temp_hall) == 0) and all([isinstance(x, str) for x in base]):
+    #     break
 for i in rez:
     name = i.pop()
     r = ", ".join(map(str, i))
